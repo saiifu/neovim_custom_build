@@ -133,6 +133,6 @@ and in visual mode press shift+: and type :
 ```bash
 PackerSync
 ```
-
+![Demo Screenshot](images/demo.png)
 
 ## Now you can see auto completion and press ctrl+n for tree file structure
